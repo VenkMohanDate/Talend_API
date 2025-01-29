@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_VFZ34Tp9Ee6Uf6rITSvsbA" label="Werkstudent_Date" language="java" technicalLabel="WERKSTUDENT_DATE" author="_VFZ34jp9Ee6Uf6rITSvsbA" productVersion="Talend Cloud Data Fabric-8.0.1.20231116_0906-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ProdatoAnalytics/NFR_Werkstudent_Date.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_VGYIQDp9Ee6Uf6rITSvsbA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_VFZ34jp9Ee6Uf6rITSvsbA" login="christian.mages@nfr.prodato.de" firstName="Christian" lastName="Mages" type="DQ"/>
+  <TalendProperties:User xmi:id="_V1a_kDp9Ee6Uf6rITSvsbA" login="venkatesh.date@nfr.prodato.de" firstName="Venkatesh" lastName="Date" type="DQ"/>
+  <TalendProperties:User xmi:id="_BE3Si5f-Ee6L9Lg7FCXs1Q" login="mathias.kalb@nfr.prodato.de" firstName="Mathias" lastName="Kalb" type="DQ"/>
+  <TalendProperties:User xmi:id="_pPItcN5BEe-88pS20qubPw" login="christoph.saffer@nfr.prodato.de" firstName="Christoph" lastName="Saffer" type="DQ"/>
+</xmi:XMI>
